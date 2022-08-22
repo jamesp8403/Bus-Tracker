@@ -10,4 +10,4 @@ To run this code, you can fork and clone this repo. Once you have the HTML, Java
 
 ## Roadmap of future improvements
 
-I would like to get the marker to correspond to the actual location of the bus on its route.
+I would like to show bus routes in other locations.
